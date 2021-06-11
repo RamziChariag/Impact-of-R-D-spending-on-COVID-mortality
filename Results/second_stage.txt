@@ -1,0 +1,22 @@
+	(1)
+VARIABLES	lmortality
+	
+lrd	0.460***
+	(0.141)
+lGDPPC	-0.617**
+	(0.288)
+m_age	0.0448**
+	(0.0222)
+HAQ	-0.0372**
+	(0.0173)
+BMI	0.279***
+	(0.0721)
+diabetes	-0.0121
+	(0.0206)
+Constant	-3.727**
+	(1.592)
+	
+Observations	93
+R-squared	0.080
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

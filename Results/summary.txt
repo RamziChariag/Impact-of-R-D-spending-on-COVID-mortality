@@ -1,0 +1,18 @@
+	(1)
+	mean
+VARIABLES	(sd)
+	
+lrd	-0.576
+	(1.266)
+lGDPPC	9.853
+	(0.995)
+m_age	35.58
+	(6.078)
+HAQ	65.75
+	(14.44)
+BMI	24.72
+	(1.783)
+diabetes	7.688
+	(3.638)
+	
+Observations	93

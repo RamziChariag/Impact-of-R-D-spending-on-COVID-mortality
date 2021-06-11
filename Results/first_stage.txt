@@ -1,0 +1,22 @@
+	(1)
+VARIABLES	lrd
+	
+lpapers	0.257***
+	(0.0321)
+lGDPPC	0.00983
+	(0.169)
+m_age	-0.0106
+	(0.0206)
+HAQ	0.0521***
+	(0.0123)
+BMI	-0.0808
+	(0.0499)
+diabetes	0.00853
+	(0.0199)
+Constant	-3.764***
+	(1.167)
+	
+Observations	93
+R-squared	0.789
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
